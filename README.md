@@ -13,7 +13,6 @@ design.
 | `labs/advanced-inheritance.ipynb` | Advanced OOP: inheritance patterns and method overriding |
 | `labs/lab-03.ipynb` through `lab-09.ipynb` | Applied data science labs using consistent notebook naming |
 | `comprehensive-analysis.ipynb` | End-of-course analysis notebook spanning multiple topics |
-| `datasets/` | Course datasets and derived inputs where applicable |
 
 ## Skills Covered
 
